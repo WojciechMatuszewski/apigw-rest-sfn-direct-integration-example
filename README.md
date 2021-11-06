@@ -1,4 +1,4 @@
-# API Gateway REST API Step Functions direct integration – CDK guide sample
+# API Gateway REST API Step Functions direct integration – CDK guide example
 
 ## Deployment
 
