@@ -16,7 +16,7 @@ export class APIGWRestSFNDirectIntegrationStack extends cdk.Stack {
          */
         allowOrigins: apigw.Cors.ALL_ORIGINS,
         allowMethods: apigw.Cors.ALL_METHODS,
-        allowHeaders: [],
+        allowHeaders: ["*"],
         allowCredentials: true
       }
     });
